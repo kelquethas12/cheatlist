@@ -1,2 +1,3 @@
 .minesonic
 .hui
+.warmine
