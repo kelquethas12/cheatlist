@@ -11,3 +11,4 @@ process hacker
 kb editor
 Cashed
 batengine
+RedShark
