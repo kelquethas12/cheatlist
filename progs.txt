@@ -13,3 +13,6 @@ Cashed
 batengine
 RedShark
 AnVir
+Daphne
+What’s Running
+System Explorer
