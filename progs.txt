@@ -1,5 +1,6 @@
 cheatengine
-artmoney
+ArtMoney
+ArtMoney Pro
 kepa2012
 Kepa2012
 speedhack
