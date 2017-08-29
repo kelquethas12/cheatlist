@@ -20,3 +20,5 @@ System Explorer
 SPOOKER
 spooker
 KP EDITOR
+DNS Jumper
+DNS
