@@ -23,7 +23,6 @@ SPOOKER
 spooker
 KP EDITOR
 DNS Jumper
-DNS
 Zekh
 Zekh Ping
 Autoclicker
