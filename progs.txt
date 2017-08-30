@@ -26,3 +26,4 @@ DNS Jumper
 DNS
 Zekh
 Zekh Ping
+Autoclicker
