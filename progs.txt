@@ -27,3 +27,4 @@ DNS
 Zekh
 Zekh Ping
 Autoclicker
+Pixelclicker
