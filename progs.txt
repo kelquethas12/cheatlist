@@ -1,15 +1,10 @@
 cheatengine
-check cashed
-Check Cashed, by Louka
 ArtMoney
-ArtMoney Pro
 kepa2012
-Kepa2012
 speedhack
 xspeed
 Louka
 CCV7
-auto clqqqqr by Kepa2012
 process hacker
 kb editor
 Cashed
@@ -24,6 +19,5 @@ spooker
 KP EDITOR
 DNS Jumper
 Zekh
-Zekh Ping
 Autoclicker
 Pixelclicker
