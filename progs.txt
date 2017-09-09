@@ -22,3 +22,5 @@ Zekh
 Autoclicker
 Pixelclicker
 Enrique Private
+Soft
+Elite
