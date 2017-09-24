@@ -13,7 +13,6 @@ RedShark
 AnVir
 Daphne
 What’s Running
-System Explorer
 SPOOKER
 spooker
 KP EDITOR
