@@ -24,3 +24,10 @@ Enrique Private
 Soft
 Elite
 PvP Nation
+KillAura
+Reach
+Step
+AntiKnockback
+FastBreak
+Ddos
+Streeser
