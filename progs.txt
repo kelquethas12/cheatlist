@@ -22,7 +22,7 @@ Zekh
 Autoclicker
 Pixelclicker
 Enrique Private
-Soft
+Softs
 KillAura
 Reach
 AntiKnockback
