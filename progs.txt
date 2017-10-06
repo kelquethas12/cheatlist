@@ -1,4 +1,5 @@
 cheatengine
+Cheat Engine
 ArtMoney
 kepa2012
 speedhack
@@ -22,11 +23,8 @@ Autoclicker
 Pixelclicker
 Enrique Private
 Soft
-Elite
-PvP Nation
 KillAura
 Reach
-Step
 AntiKnockback
 FastBreak
 Ddos
