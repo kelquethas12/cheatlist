@@ -46,4 +46,4 @@ Cheat Engine 2.
 Cheat Engine 1.
 Cheat Engine By Qmaks
 UVH
-UVH v1.1 alpha.dll
+UVH v1.1 alpha
