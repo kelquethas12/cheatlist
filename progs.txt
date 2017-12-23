@@ -51,3 +51,6 @@ UVH v1.3
 UVH v1.3 -
 UVH v1.3 - Визуальное меню
 KoleanBox
+Regedit
+
+
