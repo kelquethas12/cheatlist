@@ -72,19 +72,3 @@ xlag 2
 xlag 3
 clicking repeat
 7clicker
-Nopde Engine 1.
-Nopde Engine 2.
-Nopde Engine 3.
-Nopde Engine 4.
-Nopde Engine 5.
-Nopde Engine 6.
-Nopde Engine 7.
-Nopde Engine 8.
-Engine 1.
-Engine 2.
-Engine 3.
-Engine 4.
-Engine 5.
-Engine 6.
-Engine 7.
-Engine 8.
