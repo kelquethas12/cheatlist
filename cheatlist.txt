@@ -1,5 +1,1 @@
-.minesonic
-.hui
 .warmine
-.WarAx
-.warax
