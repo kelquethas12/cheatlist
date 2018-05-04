@@ -1,4 +1,5 @@
 cheatengine
+clicker
 Cheat Engine
 ArtMoney
 speedhack
